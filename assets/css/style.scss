@@ -1,0 +1,25 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+// Destaque do link de compra (classe botao-comprar), usado no cimo e no fim do README.
+// Este estilo vale apenas no GitHub Pages; na vista do GitHub o link fica simples, a negrito.
+.markdown-body a.botao-comprar {
+  display: inline-block;
+  padding: 10px 22px;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #fff;
+  text-decoration: none;
+  background-color: #0366d6;
+  border-radius: 6px;
+}
+
+.markdown-body a.botao-comprar:hover,
+.markdown-body a.botao-comprar:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: #024ea4;
+}

@@ -4,7 +4,9 @@
 
 O mcp-advogados-pt liga o Claude, e outros assistentes de IA compatíveis com MCP (Model Context Protocol), às fontes do direito português. Com ele, o assistente pode ir buscar o artigo, o acórdão ou a portaria à fonte, no momento do pedido, em vez de citar de memória, e indica o endereço para conferir. No Citius, na área reservada do mandatário, recolhe as notificações, os movimentos e os integrais dos processos do próprio advogado.
 
-**[Comprar — 29 € a cada 30 dias](https://buy.stripe.com/00wbJ1eml1UQ1E37Si9ws02)** · [Termos de serviço](https://azevedoemaldaner-adv.pt/termos-mcp-advogados-pt.html) · [Contacto](mailto:licencas@azevedoemaldaner-adv.pt)
+<p><a class="botao-comprar" href="https://buy.stripe.com/00wbJ1eml1UQ1E37Si9ws02"><strong>Comprar — 29 € a cada 30 dias</strong></a></p>
+
+[Termos de serviço](https://azevedoemaldaner-adv.pt/termos-mcp-advogados-pt.html) · [Contacto](mailto:licencas@azevedoemaldaner-adv.pt)
 
 ## O que faz
 
@@ -178,3 +180,7 @@ Dúvidas e pedidos: [licencas@azevedoemaldaner-adv.pt](mailto:licencas@azevedoem
 ## English summary
 
 mcp-advogados-pt is a paid MCP (Model Context Protocol) server bundle that connects Claude and other MCP-capable AI assistants to Portuguese legal sources: legislation (PGD Lisboa, Diário da República and EU law), case law (dgsi.pt, the Constitutional Court and CAAD tax arbitration) and Citius, the Portuguese courts' portal, in the lawyer's own reserved area. It provides 30 tools and runs locally, as a Claude Desktop extension (.mcpb) or as stdio servers for other clients. It is sold only to lawyers registered with the Portuguese Bar Association, at 29 € per 30-day period. The tools, the documentation and the support are in Portuguese. It is not an official service and is not affiliated with the Portuguese courts, the Ministry of Justice or any AI provider.
+
+---
+
+<p><a class="botao-comprar" href="https://buy.stripe.com/00wbJ1eml1UQ1E37Si9ws02"><strong>Comprar — 29 € a cada 30 dias</strong></a></p>
