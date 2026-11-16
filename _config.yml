@@ -1,0 +1,9 @@
+# Configuração do GitHub Pages para a página pública do mcp-advogados-pt.
+# A página é o README.md (jekyll-readme-index). O título abaixo repete, letra por letra,
+# o primeiro título do README: assim o tema não imprime dois títulos no cimo da página.
+title: "mcp-advogados-pt — direito português no Claude e noutros assistentes de IA"
+description: "Conector MCP para advogados: legislação portuguesa (PGD Lisboa, Diário da República, direito da UE), jurisprudência (dgsi.pt, Tribunal Constitucional, CAAD) e Citius, no Claude e noutros assistentes de IA."
+lang: pt-PT
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
