@@ -6,7 +6,7 @@ O mcp-advogados-pt liga o Claude, e outros assistentes de IA compatíveis com MC
 
 <p><a class="botao-comprar" href="https://buy.stripe.com/00wbJ1eml1UQ1E37Si9ws02"><strong>Comprar — 29 € a cada 30 dias</strong></a></p>
 
-[Termos de serviço](https://azevedoemaldaner-adv.pt/termos-mcp-advogados-pt.html) · [Contacto](mailto:licencas@azevedoemaldaner-adv.pt)
+[Termos de serviço](https://azevedoemaldaner-adv.pt/termos-mcp-advogados-pt.html) · [Contacto](mailto:mcp-adv-pt@azevedoemaldaner-adv.pt)
 
 ## O que faz
 
@@ -175,7 +175,7 @@ A informação completa sobre dados pessoais está nos [termos de serviço](http
 
 O mcp-advogados-pt é prestado por Álisson Thiago Maldaner. A identificação completa do prestador e as condições da licença constam dos [termos de serviço](https://azevedoemaldaner-adv.pt/termos-mcp-advogados-pt.html).
 
-Dúvidas e pedidos: [licencas@azevedoemaldaner-adv.pt](mailto:licencas@azevedoemaldaner-adv.pt).
+Dúvidas e pedidos: [mcp-adv-pt@azevedoemaldaner-adv.pt](mailto:mcp-adv-pt@azevedoemaldaner-adv.pt).
 
 ## English summary
 
